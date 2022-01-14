@@ -1,0 +1,1 @@
+nowaday in web design we donot use <b> and <i> tag much strong and empphasize are used as it gives meaning to text
