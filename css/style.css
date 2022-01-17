@@ -11,6 +11,14 @@ p {
 .intro{
     font-size: 20px;
 }
+
+.highlight{
+    background-color: yellow;
+
+}
+.accent-color{
+    color:white;
+}
 h1{
     color:orchid;
     font-size: 50px;
