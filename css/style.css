@@ -1,6 +1,7 @@
 body{
     background-color: lightcyan;
     color:white;
+    background-image:url(../images/flower.png)
 
 }
 p {
@@ -52,11 +53,16 @@ span{
 */
 
 .box{
-    background-color: pink;
+
+    background-image: url(../images/hello.png);
     width:300px;
     margin:50px;
-    border:10px solid red;
-    border-style:dotted;
+    border:5px solid red;
+    background-repeat:repeat-x ;
+    background-size:cover;
+    background-position:center;
+    
+   
     padding:50px;
     
 }
