@@ -43,3 +43,20 @@ span{
     background-color: blue;
 
 }
+
+/* css box model is starting here */
+/* margin
+   border
+   padding are three main part of box model  
+   these all add together on top of width to make the box model
+*/
+
+.box{
+    background-color: pink;
+    width:300px;
+    margin:50px;
+    border:10px solid red;
+    border-style:dotted;
+    padding:50px;
+    
+}
