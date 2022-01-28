@@ -1,12 +1,26 @@
 body{
     background-color: lightcyan;
     color:white;
-    background-image:url(../images/flower.png)
+    background-image:url(../images/flower.png);
+    font-family:Futura,sans-serif ;
 
+}
+.textpage{
+    background-color:white;
+    background-image: none;
 }
 p {
     color: black;
+    margin-top:0px;
+    margin-bottom:25px;
+    line-height: 1.4;
+    font-style:italic;
+    font-weight: bold;
 
+}
+.bold {
+    text-decoration:underline;
+    text-transform: uppercase;
 
 }
 .intro{
@@ -23,7 +37,13 @@ p {
 h1{
     color:orchid;
     font-size: 50px;
+    margin-bottom:0px;
+
     
+}
+h3{ 
+    color:black;
+    margin-top:0px;
 }
 div{
     background:lightpink;
